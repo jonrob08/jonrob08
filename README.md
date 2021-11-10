@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @jonrob08
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @jonrob08! I'm a mid-level developer looking to sharpen my skills and put some projects online! 
+- 👀 I’m interested in learning new programming languages, sports, gaming, traveling, reading, and lots more!  
+- 🌱 I’m currently learning python
+- 💞️ I’m looking to collaborate on anything!
+- 📫 You can reach me at jonrob08@gmail.com or by phone at 717-592-9969
 
 <!---
 jonrob08/jonrob08 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

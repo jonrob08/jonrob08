@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jonrob08! I'm a mid-level developer looking to sharpen my skills and put some projects online! 
+- 👋 Hi, I’m @jonrob08! I'm a software developer looking to sharpen my skills and put some projects online! 
 - 👀 I’m interested in learning new programming languages, sports, gaming, traveling, reading, and lots more!  
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on anything!
